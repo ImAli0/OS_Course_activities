@@ -1,1 +1,1 @@
-# Activities of the course " Operating System "
+# Lab Activities of the course " Operating System "
